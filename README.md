@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vallabhram
-- 👀 I’m interested in Data
+- 👀 I’m interested in Data and Analytics
 - 🌱 I’m currently learning AI &  ML
 - 💞️ I’m looking to collaborate on Data/ML Projects
 - 📫 How to reach me: josyula.vallabh@gmail.com
