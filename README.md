@@ -5,6 +5,7 @@
 - 📫 How to reach me: josyula.vallabh@gmail.com /  linkedin.com/in/vallabhram
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Boba Tea!
+- 💼 Currently seeking job opportunities in the field of data analytics & business intelligence. 
 
 <!---
 vallabhram/vallabhram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
