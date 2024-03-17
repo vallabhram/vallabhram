@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data and Analytics
 - 🌱 I’m currently learning AI &  ML
 - 💞️ I’m looking to collaborate on Data / ML Projects
-- 📫 How to reach me: josyula.vallabh@gmail.com /  linkedin.com/in/vallabhram
+- 📫 How to reach me: josyula.vallabh@gmail.com /  https://linkedin.com/in/vallabhram
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Boba Tea!
 - 💼 Currently seeking job opportunities in the field of data analytics & business intelligence. 
