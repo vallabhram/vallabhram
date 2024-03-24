@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data / ML Projects
 - 📫 How to reach me: josyula.vallabh@gmail.com /  https://linkedin.com/in/vallabhram
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love Boba Tea!
+- ⚡ Fun fact: I enjoy drinking Boba Tea!
 - 💼 Currently seeking job opportunities in the field of data analytics & business intelligence. 
 
 <!---
